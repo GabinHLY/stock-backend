@@ -20,7 +20,7 @@ Ce projet est une application backend pour une plateforme qui aide à gérer les
     ```
 2. Aller dans le répertoire du projet :
     ```bash
-    cd achat-revente-backend
+    cd stock-backend
     ```
 3. Installer les dépendances :
     ```bash
